@@ -10,7 +10,7 @@ Docker-compose should be version 1.6 or higher.
 
 ### Clone the repo
 ```bash
-$ git clone https://github.com/gangachris/mean-docker
+$ git clone https://github.com/worldoflinux/mean-docker
 ```
  ### Run docker
  ```bash
